@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HVAC Mechanical Engineer – [Andrew Wysopal]</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+    header {
+      background: #1f3b4d;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0 0 10px;
+      font-size: 2.5em;
+    }
+    header p {
+      font-size: 1.1em;
+      line-height: 1.4;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #1f3b4d;
+      margin-bottom: 10px;
+      font-size: 1.8em;
+    }
+    p {
+      line-height: 1.6;
+      font-size: 1em;
+    }
+    .contact {
+      background: #efefef;
+      text-align: center;
+      padding: 30px 20px;
+    }
+    .contact a {
+      color: #1f3b4d;
+      text-decoration: none;
+      font-weight: bold;
+      display: inline-block;
+      margin-top: 10px;
+      word-break: break-all;
+    }
+
+    /* Mobile Styles */
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2em;
+      }
+      section {
+        padding: 30px 15px;
+      }
+      h2 {
+        font-size: 1.5em;
+      }
+      p {
+        font-size: 0.95em;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>[Andrew Wysopal]</h1>
+  <p>HVAC Mechanical Engineer | End-User Focused | 1,000+ Projects Completed</p>
+</header>
+
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    I'm a dedicated HVAC Mechanical Engineer with a passion for designing systems that prioritize the needs of the end user. With experience across over 1,000 diverse projects and time spent at <strong>CaptiveAire</strong>—a national leader in commercial kitchen ventilation—I bring practical, user-focused solutions to every challenge.
+  </p>
+</section>
+
+<section id="projects">
+  <h2>Project Experience</h2>
+  <p>
+    From national restaurant chains to independent commercial kitchens, I’ve designed mechanical systems that are efficient, compliant, and built to last. Each project is an opportunity to understand how people use a space and create a system that enhances comfort, safety, and usability.
+  </p>
+</section>
+
+<section id="approach">
+  <h2>My Approach</h2>
+  <p>
+    I believe successful HVAC design starts with empathy—understanding the unique requirements of chefs, managers, maintenance teams, and building owners. I balance performance and practicality, ensuring every system meets the highest engineering standards while remaining intuitive and easy to operate.
+  </p>
+</section>
+
+<section class="contact">
+  <h2>Let's Connect</h2>
+  <p>
+    Have a project in mind or want to collaborate?
+  </p>
+  <a href="mailto:wys.engineering@gmail.com">wys.engineering@gmail.com</a>
+</section>
+
+</body>
+</html>
